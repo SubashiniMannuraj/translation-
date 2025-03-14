@@ -1,0 +1,17 @@
+SpeechRecognition==3.14.1
+deep-translator==1.11.4
+gTTS==2.5.4
+pygame==2.6.1
+langdetect==1.0.9
+neo4j==5.28.1
+requests==2.32.3
+beautifulsoup4==4.13.3
+certifi==2025.1.31
+charset-normalizer==3.4.1
+click==8.1.8
+colorama==0.4.6
+pytz==2025.1
+six==1.17.0
+soupsieve==2.6
+typing_extensions==4.12.2
+urllib3==2.3.0
